@@ -21,21 +21,21 @@ I'm a passionate Full Stack Developer specializing in .NET technologies using C#
 ## 📫 Contact Me  
 
 <p align="left">
-  <a href="mailto:abdulrahmanabuelgheit5@gmail.com">
+  <a href="mailto:abdelrhmanhisham199@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://wa.me/201117546522">
+  <a href="https://wa.me/201023591562">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="https://github.com/AbdulrahmanAbuelgheit">
+  <a href="https://github.com/AbdelrhmanHisham1">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/abdulrahman-abuelgheit">
+  <a href="https://www.linkedin.com/in/abdelrhman-hisham">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.facebook.com/AbdulrahmanAbuelgheit">
+<!--   <a href="https://www.facebook.com/AbdulrahmanAbuelgheit">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -70,20 +70,20 @@ I'm a passionate Full Stack Developer specializing in .NET technologies using C#
 ## 📊 GitHub Stats  
 
 <p align="left">
-  <a href="https://github.com/AbdulrahmanAbuelgheit">
-    <img src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanAbuelgheit&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats">
+  <a href="https://github.com/AbdelrhmanHisham1">
+    <img src="https://github-readme-stats.vercel.app/api?username=AbdelrhmanHisham1&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats">
   </a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/AbdulrahmanAbuelgheit">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulrahmanAbuelgheit&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak">
+  <a href="https://github.com/AbdelrhmanHisham1">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrhmanHisham1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak">
   </a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/AbdulrahmanAbuelgheit">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanAbuelgheit&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages">
+  <a href="https://github.com/AbdelrhmanHisham1">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanHisham1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages">
   </a>
 </p>
 
