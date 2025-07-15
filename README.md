@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Hisham</h1>
-<h3 align="center">Software Developer | .NET Specialist | ITI Graduate</h3>
+<h3 align="center">Software Developer | Aspiring Software Business Analyst | ITI Graduate</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50">
@@ -9,7 +9,7 @@
 
 ## 🛠 About Me
 
-I'm a passionate Full Stack Developer specializing in .NET technologies using C#, Entity Framework, and LINQ. I have extensive experience in backend development, database management, and data structures & algorithms.
+a passionate Software Developer specializing in .NET technologies. I have extensive experience in backend development, frontend development, database management, and software business analysis.
 
 🔹 ITI 9-Month Graduate  
 🔹 Experience with SQL Server, MySQL, and Oracle  
@@ -40,6 +40,8 @@ I'm a passionate Full Stack Developer specializing in .NET technologies using C#
 
 ---
 
+
+<!--  
 ## 🚀 Technologies & Tools  
 
 <p align="left">
@@ -54,19 +56,13 @@ I'm a passionate Full Stack Developer specializing in .NET technologies using C#
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="36" height="36" alt="Microsoft SQL Server"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="SASS"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux"/>
-</p>
-
----
-
+  </p>
+  ---
+  -->
+  
+<!--  
 ## 📊 GitHub Stats  
 
 <p align="left">
@@ -88,7 +84,7 @@ I'm a passionate Full Stack Developer specializing in .NET technologies using C#
 </p>
 
 ---
-
+-->
 ## 🤝 Let's Collaborate  
 
 I'm always open to new opportunities and collaborations. Feel free to connect with me on LinkedIn, WhatsApp, or GitHub!  
